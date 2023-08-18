@@ -37,9 +37,9 @@ Welcome to Bethany's Pie Shop project! This application is designed to showcase 
 ## Installation
 <a name="installation"></a>
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd pie-delight`
-3. Restore NuGet packages: `dotnet restore`
-4. Update the database: `dotnet ef database update`
+2. Navigate to the project directory: 
+3. Restore NuGet packages: 
+4. Update the database: 
 
 ## Usage
 <a name="usage"></a>
