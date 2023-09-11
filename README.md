@@ -1,13 +1,12 @@
 # BethanysPieShop
 Welcome to Bethany's Pie Shop project! This application is designed to showcase a variety of delicious pies, allow users to explore and purchase their favorites, and manage their shopping experience. The project is built using ASP.NET MVC Core and ASP.NET API for the search functionality. The frontend design is enhanced with Bootstrap and jQuery for an engaging user experience.
 
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 - [Contributing](#contributing)
-
 
 ## Features
 <a name="features"></a>
@@ -46,6 +45,10 @@ Welcome to Bethany's Pie Shop project! This application is designed to showcase 
 1. Run the application: `dotnet run`
 2. Access the web application through your browser at `http://localhost:5000`
 
+## Live Demo
+<a name="live-demo"></a>
+You can access a live demo of Bethany's Pie Shop [here](http://www.pieshop.somee.com). Try it out before downloading!
+
 ## Contributing
 <a name="contributing"></a>
 Contributions are welcome! To contribute to Pie Delight, follow these steps:
@@ -55,5 +58,3 @@ Contributions are welcome! To contribute to Pie Delight, follow these steps:
 3. Make your changes and commit them: `git commit -am 'Add new feature'`
 4. Push to the branch: `git push origin feature-new-feature`
 5. Submit a pull request
-
-
